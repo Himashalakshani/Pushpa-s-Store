@@ -1,0 +1,142 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+div#root {
+  max-width: unset;
+  padding: unset;
+  height: 100vh;
+}
+
+.main-cont {
+  width: 100%;
+  margin: 0px;
+  max-width: 1500px;
+  background: transparent;
+}
+
+input[type=text] {
+  margin-bottom: 0px;
+}
+
+.searchbar {
+  margin-bottom: 30px;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.searchbar {
+  width: 30%;
+  margin: auto;
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+
+input[type=text] {
+  margin-bottom: 0px;
+  width: 80%;
+  padding: 0px;
+  padding-left: 30px;
+  font-size: 13px;
+}
+
+.searchbtn {
+  width: 10%;
+}
+
+.searchbtn svg {
+  font-size: 3rem;
+}
+
+.navbar-main {
+  height: 60px;
+}
+
+.navbar-main .brand {
+  font-size: 2rem;
+  margin-left: 2%;
+}
+.navbar-main .right-panel{
+  margin-right: 2%;
+}
+.navbar-main .right-panel svg {
+  font-size: 2.5rem;
+  margin-right: 13px;
+}
+
+
+
+
+.product-details {
+  text-align: left;
+  margin-left: 13px;
+}
+
+.product-details.name {
+  font-size: 16px;
+  margin-bottom: 16px;
+}
+
+.product-details.price {
+  font-size: 14px;
+}
+
+.product-details.addcart {
+  background-color: #0ba941;
+  color: #fff;
+  font-size: 12px;
+}
+
+.product-details.addcart svg {
+  color: #fff;
+  font-size: 20px;
+  margin-right: 26%;
+}
+
+.product-details.addcart:hover {
+  background-color: #045520;
+}
+
+@media (min-width: 1280px){
+  .container {
+   max-width: 1500px;
+}
+}
+ */

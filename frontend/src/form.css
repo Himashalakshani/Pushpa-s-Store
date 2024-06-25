@@ -1,0 +1,40 @@
+#root {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 5rem;
+  text-align: center;
+}
+
+body {
+  font-family: montserrat;
+}
+
+.supplier-form-container {
+  
+  margin: 0 auto;
+  padding: 100px;
+
+  border-radius: 20px;
+  background-color: #6cbe73;
+  background-image: "F:\SLIIT\Y2 S2\PPA\group assignment\pushpa's_store_supplier_page\bg sup.jpg";
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 3px;
+}
+
+input[type="text"],
+input[type="email"],
+button {
+  width: 100%;
+  padding: 10px;
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}

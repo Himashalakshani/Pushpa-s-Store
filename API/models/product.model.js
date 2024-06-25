@@ -1,0 +1,32 @@
+import mongoose from "mongoose";
+
+const productSchema = new mongoose.Schema({
+  name: {
+    type: String,
+    required: true,
+  },
+  brand: {
+    type: String,
+    required: true,
+  },
+  price: {
+    type: Number,
+    required: true,
+  },
+  discountedPrice: {
+    type: Number,
+    required: false,
+  },
+  quantity: {
+    type: Number,
+    required: true,
+  },
+  imageUrl: {
+    type: String, // Store the image data as a Buffer
+    required: true,
+  },
+});
+
+const Product = mongoose.model("Product", productSchema);
+
+export default Product;
