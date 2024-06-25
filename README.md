@@ -1,0 +1,1 @@
+Successfully developed an E-commerce web application for Pushpa's store utilizing the MERN stack (MongoDB, Express.js, React, and Node.js). Implemented user authentication using JSON Web Tokens (JWT) for enhanced security.
